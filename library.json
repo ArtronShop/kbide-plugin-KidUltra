@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-KidUltra",
+  "title": "KidUltra",
+  "keywords": "ide, esp32, ultrasonic",
+  "description": "KidUltra plugin for KB-IDE",
+  "category": "Sensors",
+  "git": "https://github.com/ioxhop/kbide-plugin-KidUltra/",
+  "author": "Sonthaya Nongnuch",
+  "email": "sonthaya.nt@hotmail.com",
+  "url": "https://www.ioxhop.com/p/1071",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "https://www.ioxhop.com/p/1071"
+}
